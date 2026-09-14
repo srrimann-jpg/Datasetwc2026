@@ -2,7 +2,7 @@
   "mcpServers": {
     "Google-Flow": {
       "command": "node",
-      "args": ["/absolute/path/to/Google-Flow_MCP/src/index.js"]
+      "args": ["/home/user/mitanshp5/google-flow_mcp/dist/index.js"]
     }
   }
 }
